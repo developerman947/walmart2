@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "nome": "Lil Wayne - Tha Carter VI (CD)",
+    "preco": 59.9,
+    "categoria": "Música",
+    "imagem": "assets/lil-wayne.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Produto Genérico 2",
+    "preco": 138.01,
+    "categoria": "Diversos",
+    "imagem": "assets/produto2.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Produto Genérico 3",
+    "preco": 123.48,
+    "categoria": "Diversos",
+    "imagem": "assets/produto3.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Produto Genérico 4",
+    "preco": 30.96,
+    "categoria": "Diversos",
+    "imagem": "assets/produto4.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Produto Genérico 5",
+    "preco": 49.22,
+    "categoria": "Diversos",
+    "imagem": "assets/produto5.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Produto Genérico 6",
+    "preco": 160.48,
+    "categoria": "Diversos",
+    "imagem": "assets/produto6.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Produto Genérico 7",
+    "preco": 181.07,
+    "categoria": "Diversos",
+    "imagem": "assets/produto7.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Produto Genérico 8",
+    "preco": 36.27,
+    "categoria": "Diversos",
+    "imagem": "assets/produto8.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Produto Genérico 9",
+    "preco": 139.62,
+    "categoria": "Diversos",
+    "imagem": "assets/produto9.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Produto Genérico 10",
+    "preco": 269.92,
+    "categoria": "Diversos",
+    "imagem": "assets/produto10.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Produto Genérico 11",
+    "preco": 181.95,
+    "categoria": "Diversos",
+    "imagem": "assets/produto11.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Produto Genérico 12",
+    "preco": 151.62,
+    "categoria": "Diversos",
+    "imagem": "assets/produto12.jpg"
+  },
+  {
+    "id": 13,
+    "nome": "Produto Genérico 13",
+    "preco": 72.98,
+    "categoria": "Diversos",
+    "imagem": "assets/produto13.jpg"
+  },
+  {
+    "id": 14,
+    "nome": "Produto Genérico 14",
+    "preco": 116.43,
+    "categoria": "Diversos",
+    "imagem": "assets/produto14.jpg"
+  },
+  {
+    "id": 15,
+    "nome": "Produto Genérico 15",
+    "preco": 193.94,
+    "categoria": "Diversos",
+    "imagem": "assets/produto15.jpg"
+  },
+  {
+    "id": 16,
+    "nome": "Produto Genérico 16",
+    "preco": 181.24,
+    "categoria": "Diversos",
+    "imagem": "assets/produto16.jpg"
+  },
+  {
+    "id": 17,
+    "nome": "Produto Genérico 17",
+    "preco": 286.84,
+    "categoria": "Diversos",
+    "imagem": "assets/produto17.jpg"
+  },
+  {
+    "id": 18,
+    "nome": "Produto Genérico 18",
+    "preco": 263.61,
+    "categoria": "Diversos",
+    "imagem": "assets/produto18.jpg"
+  },
+  {
+    "id": 19,
+    "nome": "Produto Genérico 19",
+    "preco": 159.53,
+    "categoria": "Diversos",
+    "imagem": "assets/produto19.jpg"
+  },
+  {
+    "id": 20,
+    "nome": "Produto Genérico 20",
+    "preco": 294.0,
+    "categoria": "Diversos",
+    "imagem": "assets/produto20.jpg"
+  },
+  {
+    "id": 21,
+    "nome": "Produto Genérico 21",
+    "preco": 166.28,
+    "categoria": "Diversos",
+    "imagem": "assets/produto21.jpg"
+  },
+  {
+    "id": 22,
+    "nome": "Produto Genérico 22",
+    "preco": 118.22,
+    "categoria": "Diversos",
+    "imagem": "assets/produto22.jpg"
+  },
+  {
+    "id": 23,
+    "nome": "Produto Genérico 23",
+    "preco": 269.87,
+    "categoria": "Diversos",
+    "imagem": "assets/produto23.jpg"
+  },
+  {
+    "id": 24,
+    "nome": "Produto Genérico 24",
+    "preco": 145.83,
+    "categoria": "Diversos",
+    "imagem": "assets/produto24.jpg"
+  },
+  {
+    "id": 25,
+    "nome": "Produto Genérico 25",
+    "preco": 291.9,
+    "categoria": "Diversos",
+    "imagem": "assets/produto25.jpg"
+  },
+  {
+    "id": 26,
+    "nome": "Produto Genérico 26",
+    "preco": 69.6,
+    "categoria": "Diversos",
+    "imagem": "assets/produto26.jpg"
+  },
+  {
+    "id": 27,
+    "nome": "Produto Genérico 27",
+    "preco": 217.65,
+    "categoria": "Diversos",
+    "imagem": "assets/produto27.jpg"
+  },
+  {
+    "id": 28,
+    "nome": "Produto Genérico 28",
+    "preco": 135.66,
+    "categoria": "Diversos",
+    "imagem": "assets/produto28.jpg"
+  },
+  {
+    "id": 29,
+    "nome": "Produto Genérico 29",
+    "preco": 175.67,
+    "categoria": "Diversos",
+    "imagem": "assets/produto29.jpg"
+  },
+  {
+    "id": 30,
+    "nome": "Produto Genérico 30",
+    "preco": 181.86,
+    "categoria": "Diversos",
+    "imagem": "assets/produto30.jpg"
+  },
+  {
+    "id": 31,
+    "nome": "Produto Genérico 31",
+    "preco": 185.52,
+    "categoria": "Diversos",
+    "imagem": "assets/produto31.jpg"
+  },
+  {
+    "id": 32,
+    "nome": "Produto Genérico 32",
+    "preco": 223.79,
+    "categoria": "Diversos",
+    "imagem": "assets/produto32.jpg"
+  },
+  {
+    "id": 33,
+    "nome": "Produto Genérico 33",
+    "preco": 296.09,
+    "categoria": "Diversos",
+    "imagem": "assets/produto33.jpg"
+  },
+  {
+    "id": 34,
+    "nome": "Produto Genérico 34",
+    "preco": 281.06,
+    "categoria": "Diversos",
+    "imagem": "assets/produto34.jpg"
+  },
+  {
+    "id": 35,
+    "nome": "Produto Genérico 35",
+    "preco": 67.49,
+    "categoria": "Diversos",
+    "imagem": "assets/produto35.jpg"
+  },
+  {
+    "id": 36,
+    "nome": "Produto Genérico 36",
+    "preco": 37.24,
+    "categoria": "Diversos",
+    "imagem": "assets/produto36.jpg"
+  },
+  {
+    "id": 37,
+    "nome": "Produto Genérico 37",
+    "preco": 162.77,
+    "categoria": "Diversos",
+    "imagem": "assets/produto37.jpg"
+  },
+  {
+    "id": 38,
+    "nome": "Produto Genérico 38",
+    "preco": 80.08,
+    "categoria": "Diversos",
+    "imagem": "assets/produto38.jpg"
+  },
+  {
+    "id": 39,
+    "nome": "Produto Genérico 39",
+    "preco": 86.76,
+    "categoria": "Diversos",
+    "imagem": "assets/produto39.jpg"
+  },
+  {
+    "id": 40,
+    "nome": "Produto Genérico 40",
+    "preco": 98.84,
+    "categoria": "Diversos",
+    "imagem": "assets/produto40.jpg"
+  },
+  {
+    "id": 41,
+    "nome": "Produto Genérico 41",
+    "preco": 141.65,
+    "categoria": "Diversos",
+    "imagem": "assets/produto41.jpg"
+  },
+  {
+    "id": 42,
+    "nome": "Produto Genérico 42",
+    "preco": 136.88,
+    "categoria": "Diversos",
+    "imagem": "assets/produto42.jpg"
+  },
+  {
+    "id": 43,
+    "nome": "Produto Genérico 43",
+    "preco": 243.34,
+    "categoria": "Diversos",
+    "imagem": "assets/produto43.jpg"
+  },
+  {
+    "id": 44,
+    "nome": "Produto Genérico 44",
+    "preco": 103.7,
+    "categoria": "Diversos",
+    "imagem": "assets/produto44.jpg"
+  },
+  {
+    "id": 45,
+    "nome": "Produto Genérico 45",
+    "preco": 47.19,
+    "categoria": "Diversos",
+    "imagem": "assets/produto45.jpg"
+  },
+  {
+    "id": 46,
+    "nome": "Produto Genérico 46",
+    "preco": 225.32,
+    "categoria": "Diversos",
+    "imagem": "assets/produto46.jpg"
+  },
+  {
+    "id": 47,
+    "nome": "Produto Genérico 47",
+    "preco": 181.36,
+    "categoria": "Diversos",
+    "imagem": "assets/produto47.jpg"
+  },
+  {
+    "id": 48,
+    "nome": "Produto Genérico 48",
+    "preco": 111.68,
+    "categoria": "Diversos",
+    "imagem": "assets/produto48.jpg"
+  },
+  {
+    "id": 49,
+    "nome": "Produto Genérico 49",
+    "preco": 213.07,
+    "categoria": "Diversos",
+    "imagem": "assets/produto49.jpg"
+  },
+  {
+    "id": 50,
+    "nome": "Produto Genérico 50",
+    "preco": 110.94,
+    "categoria": "Diversos",
+    "imagem": "assets/produto50.jpg"
+  }
+]

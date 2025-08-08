@@ -1,0 +1,45 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+}
+header {
+  background: #0071ce;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+input[type="text"], input[type="email"] {
+  width: 90%;
+  padding: 10px;
+  margin: 10px auto;
+  display: block;
+}
+main {
+  padding: 1rem;
+}
+#produtos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1rem;
+}
+.produto {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  text-align: center;
+}
+#chatIA {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #0071ce;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 24px;
+}
